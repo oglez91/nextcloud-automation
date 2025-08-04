@@ -2,8 +2,8 @@
   "name": "nextcloud-automation",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
-  "scripts": {
+  "type": "commonjs",
+ "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
